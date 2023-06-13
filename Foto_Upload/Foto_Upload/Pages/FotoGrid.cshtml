@@ -1,0 +1,29 @@
+﻿@page
+@model Foto_Upload.Pages.FotoGridModel
+@{
+    ViewData["Title"] = "Foto's";
+}
+
+<h1>Foto's</h1>
+
+<div class="row">
+    @foreach (var photo in Model.Photos)
+    {
+        <div class="col-md-4">
+            <div class="card mb-4">
+                <img src="@photo.FullImagePath" class="card-img-top" alt="@photo.FileName">
+                <div class="card-body">
+                    <h5 class="card-title">@photo.FileName</h5>
+                    <p class="card-text">Uploaded by: @photo.UploadedBy</p>
+                    <p class="card-text">Event: @photo.Evenement</p>
+                    @if (User.Identity.IsAuthenticated && User.Identity.Name == photo.UploadedBy)
+                    {
+                        <form method="post" asp-page-handler="Delete" asp-route-filePath="@photo.FilePath">
+                            <button type="submit" class="btn btn-danger">Delete</button>
+                        </form>
+                    }
+                </div>
+            </div>
+        </div>
+    }
+</div>
