@@ -20,16 +20,32 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/FotoGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRm90b0dyaWQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Inlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5sb2cuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/Upload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVXBsb2FkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/lynxd/Documents/GitHub/vakantie-blog/vakantie-blog/vakantie-blog/Pages/_ViewImports.cshtml]
