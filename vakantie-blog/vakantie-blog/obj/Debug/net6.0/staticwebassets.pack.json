@@ -249,6 +249,10 @@
       "PackagePath": "staticwebassets\\uploads\\6ad05d75-c541-42ce-8ddf-714391843515.jpg"
     },
     {
+      "Id": "C:\\Users\\lynxd\\Documents\\GitHub\\vakantie-blog\\vakantie-blog\\vakantie-blog\\wwwroot\\uploads\\c2378cf6-dcb0-4af2-b232-fe6537c678a5.png",
+      "PackagePath": "staticwebassets\\uploads\\c2378cf6-dcb0-4af2-b232-fe6537c678a5.png"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.vakantie-blog.props",
       "PackagePath": "build\\vakantie-blog.props"
     },
